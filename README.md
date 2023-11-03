@@ -1,3 +1,3 @@
 # Reeducando
 
-http://nicolliegoes.github.io/Reeducando
+https://nicolliegoes.github.io/Reeducando
