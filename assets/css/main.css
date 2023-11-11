@@ -74,7 +74,7 @@ section {
 }
 
 .section-header h2 {
-  font-size: 13px;
+  font-size: 25px;
   letter-spacing: 1px;
   font-weight: 400;
   margin: 0;
@@ -86,7 +86,7 @@ section {
 
 .section-header p {
   margin: 0;
-  font-size: 48px;
+  font-size: 55px;
   font-weight: 400;
   font-family: var(--font-primary);
 }
@@ -1652,4 +1652,47 @@ section {
 
 .footer .credits a {
   color: #fff;
+}
+
+.img-aling{
+
+    justify-content: center;
+    align-items: center;
+    height: 10%;
+}
+
+.texto{
+  text-align: center;
+  font-size: 100px;
+  margin: 0;
+  font-weight: 400;
+  font-family: var(--font-primary) ;
+}
+
+.textoh2{
+  color: #012677;
+  font-size: 70px;
+  text-align: center;
+  font-family:var(--font-primary);
+  font-weight: 400; 
+  margin: 0; 
+  margin-bottom: 0;
+}
+
+.aling{
+  text-align: center;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 20px;
+  cursor: pointer;
+  background-color: var(--color-primary); /* Cor de fundo */
+  color: white; /* Cor do texto */
+  border: none; /* Sem borda */
+  border-radius: 15px; /* Borda arredondada */
+}
+
+button:hover {
+  background-color: var(--color-default);
 }
